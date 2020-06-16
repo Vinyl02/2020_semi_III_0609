@@ -1,3 +1,1 @@
-touch greeting.txt
-
-こんにちは
+おはようございます
